@@ -1,7 +1,11 @@
 # 🌟 Real-Time Gemini Live API Chat Application
 
 This repository contains a **FastAPI backend** and a **ReactJS frontend** that enables **real-time chat** with Gemini AI, supporting both **text-based** and **text-to-audio** interactions.
+ 
+---
+ <img width="1440" alt="Screenshot 2025-03-28 at 5 17 52 AM" src="https://github.com/user-attachments/assets/7a034b4b-a86d-4a03-a611-a3b582535be9" />
 
+ 
 ## 🚀 Features
 
 ✅ **Real-time Text Chat (`/`)** – Chat with Gemini AI via text.  
